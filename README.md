@@ -16,11 +16,11 @@
 
 7) Interactive Visualizations: Designed a dynamic dashboard featuring:
    
-  Time-Series Analysis: Line charts to track sales and profit trends over years and months.
+      Time-Series Analysis: Line charts to track sales and profit trends over years and months.
   
-  Geographic Mapping: A map visual to identify high-performing states and regions.
+      Geographic Mapping: A map visual to identify high-performing states and regions.
   
-  Product Performance: Bar charts showing the most and least profitable categories (e.g., Technology, Furniture, Office Supplies).
+      Product Performance: Bar charts showing the most and least profitable categories (e.g., Technology, Furniture, Office Supplies).
 
 8) User Interactivity: Incorporated Slicers and Filters (Category, Region, Year, and Payment Mode) to allow users to customize their view and deep-dive into specific segments of the business.
 
