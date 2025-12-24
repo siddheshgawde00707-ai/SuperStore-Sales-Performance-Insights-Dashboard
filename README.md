@@ -1,5 +1,6 @@
 # Super-Store-Sales-
-<img width="1265" height="707" alt="Power BI" src="https://github.com/user-attachments/assets/3ef0a1be-bf43-448d-ab4a-8a5c12e42b17" />
+<img width="1246" height="701" alt="Power BI" src="https://github.com/user-attachments/assets/b44088d4-cbb1-4ec4-9c03-67a2f5a589ac" />
+
 
 
 1) Project Objective: The primary goal of this project was to analyze the sales and profitability of a "SuperStore" to identify key performance drivers, regional trends, and product category performance to help stakeholders make data-driven decisions.
