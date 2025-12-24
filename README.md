@@ -4,7 +4,7 @@
 
 1) Project Objective: The primary goal of this project was to analyze the sales and profitability of a "SuperStore" to identify key performance drivers, regional trends, and product category performance to help stakeholders make data-driven decisions.
 
-2) Data Sourcing: The raw dataset was sourced via a YouTube educational resource, providing a comprehensive record of retail transactions including order details, customer segments, and geographic information across the United States.
+2) Data Sourcing: The raw dataset was sourced via educational resource, providing a comprehensive record of retail transactions including order details, customer segments, and geographic information across the United States.
 
 3) Data Cleaning & Pre-processing (Excel): Initial data refining was performed in Microsoft Excel. This involved removing redundant columns (like ind1 and ind2), handling missing values in the Returns field, and ensuring date formats (Order Date, Ship Date) were consistent for time-series analysis.
 
