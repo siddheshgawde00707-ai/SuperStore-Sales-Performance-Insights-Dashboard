@@ -1,6 +1,5 @@
 # Super-Store-Sales-
 <img width="1265" height="707" alt="Power BI" src="https://github.com/user-attachments/assets/3ef0a1be-bf43-448d-ab4a-8a5c12e42b17" />
-Interactive Dashboard Creation: Designed a user-friendly Power BI dashboard to visualize key business metrics like total revenue, profit, and sales volume in one place.
 
 
 1) Project Objective: The primary goal of this project was to analyze the sales and profitability of a "SuperStore" to identify key performance drivers, regional trends, and product category performance to help stakeholders make data-driven decisions.
@@ -17,11 +16,11 @@ Interactive Dashboard Creation: Designed a user-friendly Power BI dashboard to v
 
 7) Interactive Visualizations: Designed a dynamic dashboard featuring:
    
-  .Time-Series Analysis: Line charts to track sales and profit trends over years and months.
+  Time-Series Analysis: Line charts to track sales and profit trends over years and months.
   
-  .Geographic Mapping: A map visual to identify high-performing states and regions.
+  Geographic Mapping: A map visual to identify high-performing states and regions.
   
-  .Product Performance: Bar charts showing the most and least profitable categories (e.g., Technology, Furniture, Office Supplies).
+  Product Performance: Bar charts showing the most and least profitable categories (e.g., Technology, Furniture, Office Supplies).
 
 8) User Interactivity: Incorporated Slicers and Filters (Category, Region, Year, and Payment Mode) to allow users to customize their view and deep-dive into specific segments of the business.
 
